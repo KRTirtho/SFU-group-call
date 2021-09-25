@@ -1,5 +1,6 @@
 # SFU Group Call
 A video conference web-app that is super fast & efficient
+
 It uses **mediasoup** under the hood to provide fastest video conference experience. It has capability to broadcast for up to 50 participants simultaneously where traditional video-conferences are limited to 25-30 participants
 
 Mediasoup is a SFU (Selective Forwarding Unit) WebRTC server/client that is way faster & efficient than MCU (Multipoint Conferencing Unit)/Mesh WebRTC servers
