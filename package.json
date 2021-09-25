@@ -1,0 +1,10 @@
+{
+  "name": "sfu-group-call",
+  "description": "A fast SFU WebRTC video conferencing application",
+  "authors": "KRTirtho",
+  "version": "1.0.0",
+  "workspaces":[
+    "./client",
+    "./server"
+  ]
+}
